@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 🌱 I’m currently learning Data Science & AI Service at Hanyang Univ (HYU)
+
 📫 How to reach me: huney0238@gmail.com
 
 <!--
